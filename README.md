@@ -1,6 +1,6 @@
 # hw6
 
-### Two players: 
+Two players: 
 	RC car (human controlled)
 	Rover (computer controlled)
 
