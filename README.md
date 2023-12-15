@@ -8,8 +8,9 @@ Two players:
 RC Car (human controlled)
 Rover (computer controlled)
 
-RC Car Goal: Get on the other side of the rover without being hit by the rover
-Rover Goal: Hit the RC car
+RC Car Goal: Get on the other side of the rover without being hit by the rover.
+
+Rover Goal: Hit the RC car.
 
 The rover mirrors the y-coordinate of the RC car, trying to block it from going to the other side.
 
