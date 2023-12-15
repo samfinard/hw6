@@ -22,4 +22,4 @@ We wanted that when the RC car goes to the left of the rover, 1 point gets added
 
 points_RCCAR.mov shows our attempts at this initial objective. However, our final game is main.mp4.
 
-### It should also be noted that points_RCCAR.py is unrelated to main.py.
+**It should also be noted that points_RCCAR.py is unrelated to main.py.**
