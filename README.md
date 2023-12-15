@@ -5,7 +5,9 @@
 
 # Updated Objective:
 Two players:
+
 RC Car (human controlled)
+
 Rover (computer controlled)
 
 RC Car Goal: Get on the other side of the rover without being hit by the rover.
