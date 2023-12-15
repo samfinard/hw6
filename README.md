@@ -6,6 +6,7 @@ RC car (human controlled)
 Rover (computer controlled)
 
 RC Car Goal: Score x points within t seconds without getting hit 
+
 Rover Goal: Hit the RC car once OR prevent from scoring x points in t seconds
 
 RC Car Behavior (human): - Go to target zone without being hit - wait until Rover resets before going to new target zone
@@ -17,8 +18,8 @@ Due to multiprocessing issues, we are unable to control the rover and display th
 
 # Updated Objective:
 Two players:
-	RC car (human controlled)
-	Rover (computer controlled)
+RC car (human controlled)
+Rover (computer controlled)
 
 RC Car Goal: Score x points within t seconds without getting hit
 Rover Goal: Hit the RC car once OR prevent RC car from scoring enough points
