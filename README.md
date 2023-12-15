@@ -21,3 +21,5 @@ Due to multiprocessing issues, we were unable to control the rover and display t
 We wanted that when the RC car goes to the left of the rover, 1 point gets added and the rover resets on the other side. However, due to multiprocessing issues we were unable to simultaneously update the score and control the robot - thus, we chose to implement a slightly different game. 
 
 points_RCCAR.mov shows our attempts at this initial objective. However, our final game is main.mp4.
+
+### It should also be noted that points_RCCAR.py is unrelated to main.py.
