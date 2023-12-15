@@ -1,6 +1,6 @@
-RC Car Used: Amazon.com: Force1 Tornado LED Remote Control Car for Kids - Double Sided Fast RC Car, 4WD Off-Road Stunt Car 360 Flips, All Terrain Tires, LEDs, Rechargeable Toy Car Battery, 2.4 GHz Remote, Interactive Display
+# RC Car Used: Amazon.com: Force1 Tornado LED Remote Control Car for Kids - Double Sided Fast RC Car, 4WD Off-Road Stunt Car 360 Flips, All Terrain Tires, LEDs, Rechargeable Toy Car Battery, 2.4 GHz Remote, Interactive Display
 
-Original Objective:
+# Original Objective:
 Two players: 
 RC car (human controlled) 
 Rover (computer controlled)
@@ -12,10 +12,10 @@ RC Car Behavior (human): - Go to target zone without being hit - wait until Rove
 
 Rover Behavior (computer): - Let x_t be the x coordinate of the current target zone. - Go to x_t and mirror the y coordinate of the RC car, trying to block it. - If distance from RC and Rover is small enough, just attack it - If RC car successfully gets a point, reset by going to new target x coordinate
 
-Pitfalls:
+# Pitfalls:
 Due to multiprocessing issues, we are unable to control the rover and display the video at the same time. We are also unable to update points while the rover is being controlled. Therefore, we chose to annotate the raw footage to give you a better sense of the game.
 
-Updated Objective:
+# Updated Objective:
 Two players:
 	RC car (human controlled)
 	Rover (computer controlled)
